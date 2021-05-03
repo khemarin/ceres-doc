@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Document Home on Ceres doc</title>
-    <link>./</link>
+    <link>/</link>
     <description>Recent content in Document Home on Ceres doc</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="./index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>App Container</title>
-      <link>./docs/app_container.html</link>
+      <link>/docs/app_container.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>./docs/app_container.html</guid>
+      <guid>/docs/app_container.html</guid>
       <description>App Container #  Quickly open the iOS application container directory.
 The most recent applications will be on the list as shown.
 Simply click on the app icon to open the app container directory.  Home  </description>
@@ -19,10 +19,10 @@ Simply click on the app icon to open the app container directory.  Home  </descr
     
     <item>
       <title>Overlay</title>
-      <link>./docs/overlay.html</link>
+      <link>/docs/overlay.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>./docs/overlay.html</guid>
+      <guid>/docs/overlay.html</guid>
       <description>Overlay #  Display an overlay image directly on top of the simulator and compare the design with the actual developed screen.
   Click the &amp;ldquo;Open&amp;rdquo; button as indicate in the image below
   For the first time, you may need to grant accesibility from the privacy settings Otherwise, skip to step 4
@@ -33,10 +33,10 @@ Simply click on the app icon to open the app container directory.  Home  </descr
     
     <item>
       <title>Simulators</title>
-      <link>./docs/simulators.html</link>
+      <link>/docs/simulators.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>./docs/simulators.html</guid>
+      <guid>/docs/simulators.html</guid>
       <description>Simulators #  This section contains several utilities to work with the simulator selected in the box:
  Open url as deeplink or universal link Open the simulator&amp;rsquo;s log directory Record a video via simctl   Home  </description>
     </item>

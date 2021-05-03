@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>./docs/app_container.html</loc>
+    <loc>/docs/app_container.html</loc>
   </url><url>
-    <loc>./categories.html</loc>
+    <loc>/categories.html</loc>
   </url><url>
-    <loc>./docs.html</loc>
+    <loc>/docs.html</loc>
   </url><url>
-    <loc>./</loc>
+    <loc>/</loc>
   </url><url>
-    <loc>./docs/overlay.html</loc>
+    <loc>/docs/overlay.html</loc>
   </url><url>
-    <loc>./docs/simulators.html</loc>
+    <loc>/docs/simulators.html</loc>
   </url><url>
-    <loc>./tags.html</loc>
+    <loc>/tags.html</loc>
   </url>
 </urlset>
