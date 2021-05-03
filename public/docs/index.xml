@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on Ceres doc</title>
+    <link>./docs.html</link>
+    <description>Recent content in Docs on Ceres doc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="./docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>App Container</title>
+      <link>./docs/app_container.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>./docs/app_container.html</guid>
+      <description>App Container #  Quickly open the iOS application container directory.
+The most recent applications will be on the list as shown.
+Simply click on the app icon to open the app container directory.  Home  </description>
+    </item>
+    
+    <item>
+      <title>Overlay</title>
+      <link>./docs/overlay.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>./docs/overlay.html</guid>
+      <description>Overlay #  Display an overlay image directly on top of the simulator and compare the design with the actual developed screen.
+  Click the &amp;ldquo;Open&amp;rdquo; button as indicate in the image below
+  For the first time, you may need to grant accesibility from the privacy settings Otherwise, skip to step 4
+  Restart the application
+  Browse to the design image to compare
+  Click &amp;ldquo;snap&amp;rdquo; to automatically align the overlay window on top of the previous active simulator window.</description>
+    </item>
+    
+    <item>
+      <title>Simulators</title>
+      <link>./docs/simulators.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>./docs/simulators.html</guid>
+      <description>Simulators #  This section contains several utilities to work with the simulator selected in the box:
+ Open url as deeplink or universal link Open the simulator&amp;rsquo;s log directory Record a video via simctl   Home  </description>
+    </item>
+    
+  </channel>
+</rss>

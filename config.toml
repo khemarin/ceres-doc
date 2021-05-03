@@ -1,0 +1,9 @@
+baseURL = "."
+languageCode = "en-us"
+title = "Ceres doc"
+theme = "hugo-book"
+relativeURLs = true
+uglyURLs = true
+
+[params]
+    BookMenuBundle = "/menu"
